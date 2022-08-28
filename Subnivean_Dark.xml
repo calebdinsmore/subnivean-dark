@@ -120,6 +120,66 @@ Volatile Fjord enters the battlefield tapped.</text>
 Alpine Meadow enters the battlefield tapped.</text>
 </card>
 <card>
+ <name>Mechanized Field</name>
+ <set rarity="uncommon">SND</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Mechanized Field enters the battlefield tapped.
+T: Add W.
+1W: Until end of turn, Mechanized Field becomes a 2/1 white Viking creature with “Whenever Mechanized Field crews a Vehicle, that Vehicle gains lifelink until end of turn.” It’s still a land.</text>
+</card>
+<card>
+ <name>Shipwrights' Guild</name>
+ <set rarity="uncommon">SND</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Shipwrights’ Guild enters the battlefield tapped.
+T: Add U.
+1U: Until end of turn, Shipwrights’ Guild becomes a 2/1 blue Viking creature with “Whenever Shipwrights’ Guild crews a Vehicle, that Vehicle gains flying until end of turn.” It’s still a land.</text>
+</card>
+<card>
+ <name>Floating Market</name>
+ <set rarity="uncommon">SND</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Floating Market enters the battlefield tapped.
+T: Add B.
+1B: Until end of turn, Floating Market becomes a 2/1 black Viking creature with “Whenever Floating Market crews a Vehicle, that Vehicle gains menace until end of turn.” It’s still a land.</text>
+</card>
+<card>
+ <name>Stone Harbor</name>
+ <set rarity="uncommon">SND</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Stone Harbor enters the battlefield tapped.
+T: Add R.
+1R: Until end of turn, Stone Harbor becomes a 2/1 red Viking creature with “Whenever Stone Harbor crews a Vehicle, that Vehicle gains first strike until end of turn.” It’s still a land.</text>
+</card>
+<card>
+ <name>Fishing Hamlet</name>
+ <set rarity="uncommon">SND</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Fishing Hamlet enters the battlefield tapped.
+T: Add G.
+1G: Until end of turn, Fishing Hamlet becomes a 2/1 green Viking creature with “Whenever Fishing Hamlet crews a Vehicle, that Vehicle gains trample until end of turn.” It’s still a land.</text>
+</card>
+<card>
  <name>Shimmerdrift Vale</name>
  <set rarity="common">SND</set>
  <color></color>
@@ -130,6 +190,144 @@ Alpine Meadow enters the battlefield tapped.</text>
  <text>Shimmerdrift Vale enters the battlefield tapped.
 As Shimmerdrift Vale enters the battlefield, choose a color.
 T: Add one mana of the chosen color.</text>
+</card>
+<card>
+ <name>Inga, Musing Mariner</name>
+ <set rarity="uncommon">SND</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Shaman Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Inga, Musing Mariner enters the battlefield, surveil 2.
+Once during each turn, whenever a Vehicle you control becomes crewed, you may draw a card.</text>
+</card>
+<card>
+ <name>Grimmast, Jarl of Helstrond</name>
+ <set rarity="uncommon">SND</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Zombie Viking Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+3UB, T: Return target creature or Vehicle card of mana value X or less from your graveyard to the battlefield where X is the total power among creatures you control. Activate only if a creature died under your control this turn.</text>
+</card>
+<card>
+ <name>Lifaeld, Daughter of Tusk</name>
+ <set rarity="uncommon">SND</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Elf Viking </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+At the beginning of combat on each turn, Lifaeld, Daughter of Tusk gets +X/+X where X is the number of creature cards that left your graveyard this turn.</text>
+</card>
+<card>
+ <name>Hvetja, Expeditions Expert</name>
+ <set rarity="uncommon" splitterPath="/Hvetja, Expeditions Expert.full.jpg" >SND</set>
+ <color>RG</color>
+ <related attach="attach">Hvetja, Harbinger of the Hunt</related>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Werewolf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+2GG: Hvetja, Expeditions Expert explores.
+Whenever a creature you control reveals a land while exploring, transform Hvetja, Expeditions Expert.
+---
+(Back): Hvetja, Harbinger of the Hunt</text>
+</card>
+<card>
+ <name>Hvetja, Harbinger of the Hunt</name>
+ <set rarity="uncommon" splitterPath="/Hvetja, Harbinger of the Hunt.full.jpg" >SND</set>
+ <color>RG</color>
+ <manacost></manacost>
+ <cmc>3</cmc>
+ <type>Legendary Snow Creature - Werewolf Berserker </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample, haste
+2SS: Target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. S can be paid with one mana from a snow source.)
+---
+(Front): Hvetja, Expeditions Expert</text>
+</card>
+<card>
+ <name>Mikill, the Beskir Bull</name>
+ <set rarity="uncommon">SND</set>
+ <color>WG</color>
+ <manacost>1WG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Giant Viking </type>
+ <pt>0/1+*</pt>
+ <tablerow>2</tablerow>
+ <text>Mikill, the Beskir Bull’s toughness is equal to 1 plus the number of Goats, Sheep, Oxen, and/or Aurochs you control.
+Each creature you control assigns combat damage equal to its toughness rather than its power and crews Vehicles using its toughness rather than its power.</text>
+</card>
+<card>
+ <name>Hirthilf, Skygge Daydream</name>
+ <set rarity="uncommon">SND</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Snow Creature - Shade </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Shadow
+Whenever one or more snow creatures or creatures with shadow you control deal combat damage to your opponents, you may pay S for each of those opponents. For each S paid, prevent all combat damage target creature they control would deal until your next turn.</text>
+</card>
+<card>
+ <name>Harald, Venom King</name>
+ <set rarity="uncommon">SND</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Elf Viking Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Infect
+Whenever you lose life for the first time on your turn, Harald, Venom King deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Margvet, Winter's Familiar</name>
+ <set rarity="uncommon">SND</set>
+ <color>UG</color>
+ <manacost>1UG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Snow Creature - Ferret Hydra </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>XSSS: Monstrosity X.
+Whenever you activate an ability of a snow creature, tap target creature you don’t control and put a number of stun counters on it equal to the amount of S you paid as part of that ability’s activation cost.</text>
+</card>
+<card>
+ <name>Raudhond, Master of Raids</name>
+ <set rarity="uncommon">SND</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Viking </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Pirates and Warriors you control are Vikings in addition to their other types.
+Whenever you draw your second card each turn, Vikings you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Syngja, Skald of Armories</name>
+ <set rarity="uncommon">SND</set>
+ <color>WR</color>
+ <manacost>1WR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Dwarf Viking Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an equipped creature you control attacks, for each kind of counter on that creature and/or Equipment attached to it, you may put another counter of that kind on that permanent or remove one from it.</text>
 </card>
 <card>
  <name>Goat-Drawn Chariot</name>
@@ -164,7 +362,7 @@ Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)</te
  <type>Artifact - Equipment </type>
  <tablerow>1</tablerow>
  <text>Equipped creature has “Whenever another creature you controls dies, put a +1/+1 counter on this creature.”
-Equip 2</text>
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
 </card>
 <card>
  <name>Tormentor's Helm</name>
@@ -202,16 +400,16 @@ Whenever Stalwart Longship attacks, untap another target creature you control.
 Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
- <name>Wardscale Leviathan</name>
+ <name>Scalewing Leviathan</name>
  <set rarity="common">SND</set>
  <color>U</color>
  <manacost>5UU</manacost>
  <cmc>7</cmc>
  <type>Artifact - Vehicle </type>
  <tablerow>1</tablerow>
- <text>Hexproof
-Whenever Wardscale Leviathan becomes crewed for the first time each turn, surveil 1.
-Crew 4</text>
+ <text>Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+Whenever Wardscale Leviathan becomes crewed for the first time each turn, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
  <name>Karfell Dreadnought</name>
@@ -221,9 +419,9 @@ Crew 4</text>
  <cmc>5</cmc>
  <type>Artifact - Vehicle </type>
  <tablerow>1</tablerow>
- <text>When Karfell Dreadnought enters the battlefield, create two 2/2 black Zombie Berserker creature tokens with decayed.
-Trample
-Crew 4</text>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+When Karfell Dreadnought enters the battlefield, create two 2/2 black Zombie Berserker creature tokens with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
  <name>Blitz Drake</name>
@@ -307,7 +505,7 @@ As long as enchanted permanent is an Equipment, it has “Equipped creature has 
  <tablerow>1</tablerow>
  <text>Enchant permanent
 As long as enchanted permanent is a creature, it gets +1/+1 and has reach and illuminate. 
-As long as enchanted permanent is an Equipment, it has “Equipped creature gets +1/+1 and has reach and illuminate.</text>
+As long as enchanted permanent is an Equipment, it has “Equipped creature gets +1/+1 and has reach and illuminate.”</text>
 </card>
 <card>
  <name>Obscured by Snow</name>
@@ -436,7 +634,7 @@ Foretell 1SS (During your turn, you may pay 2 and exile this card from your hand
  <cmc>4</cmc>
  <type>Snow Instant</type>
  <tablerow>3</tablerow>
- <text>Tap up to two target artifacts and/or creatures. Those permanents don’t untap during their controller’s next untap step.
+ <text>Tap up to two target artifacts and/or creatures and put a stun counter on each of them. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)
 Foretell 2S (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
 </card>
 <card>
@@ -600,7 +798,7 @@ Crew 3 (Tap any number of creatures you control with total power 3 or greater: T
  <tablerow>1</tablerow>
  <text>Omenpath Infiltrator can’t be blocked.
 Whenever Omenpath Infiltrator deals combat damage to a player, that player reveals their hand.
-Crew 3</text>
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
  <name>Betrayer King's Zealot</name>
@@ -635,7 +833,7 @@ Crew 3</text>
  <pt>0/1</pt>
  <tablerow>2</tablerow>
  <text>When Wayward Shepherd enters the battlefield, create a 0/2 green Sheep creature token, then Wayward Shepherd explores.
-Whenever a creature you control explores, if the revealed card was a land, transform Wayward Shepherd.
+Whenever a creature you control reveals a land while exploring, transform Wayward Shepherd.
 ---
 (Back): Consumer of the Flock</text>
 </card>
@@ -665,7 +863,7 @@ T, Sacrifice a creature: Add one mana of any color.
  <text>Rugged Ox crews Vehicles using its toughness rather than its power.</text>
 </card>
 <card>
- <name>Omensight Navigator</name>
+ <name>Omensight Doomsayer</name>
  <set rarity="common">SND</set>
  <color>U</color>
  <manacost>1U</manacost>
@@ -673,7 +871,7 @@ T, Sacrifice a creature: Add one mana of any color.
  <type>Creature - Human Scout Shaman </type>
  <pt>1/3</pt>
  <tablerow>2</tablerow>
- <text>Whenever Omensight Navigator becomes tapped, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+ <text>Whenever Omensight Doomsayer becomes tapped, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
 </card>
 <card>
  <name>Doomed Raider</name>
@@ -698,23 +896,23 @@ T, Sacrifice a creature: Add one mana of any color.
  <text>Cremate a creature card: Add R. Activate only once each turn. (To cremate a card, a player exiles it from their graveyard.)</text>
 </card>
 <card>
- <name>Vargr Pathfinder</name>
- <set rarity="common" splitterPath="/Vargr Pathfinder.full.jpg" >SND</set>
+ <name>Kannah Clan Pathfinder</name>
+ <set rarity="common" splitterPath="/Kannah Clan Pathfinder.full.jpg" >SND</set>
  <color>G</color>
- <related attach="attach">Vargr Linebreaker</related>
+ <related attach="attach">Vargr Pack Linebreaker</related>
  <manacost>3G</manacost>
  <cmc>4</cmc>
  <type>Creature - Human Werewolf Scout </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>When Vargr Pathfinder enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
-Whenever a creature you control explores, if the revealed card was a land, transform Vargr Pathfinder.
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Kannah Clan Pathfinder.
 ---
-(Back): Vargr Linebreaker</text>
+(Back): Vargr Pack Linebreaker</text>
 </card>
 <card>
- <name>Vargr Linebreaker</name>
- <set rarity="common" splitterPath="/Vargr Linebreaker.full.jpg" >SND</set>
+ <name>Vargr Pack Linebreaker</name>
+ <set rarity="common" splitterPath="/Vargr Pack Linebreaker.full.jpg" >SND</set>
  <color>G</color>
  <manacost></manacost>
  <cmc>4</cmc>
@@ -723,7 +921,7 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <tablerow>2</tablerow>
  <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
 ---
-(Front): Vargr Pathfinder</text>
+(Front): Kannah Clan Pathfinder</text>
 </card>
 <card>
  <name>Anointing Armor</name>
@@ -863,7 +1061,7 @@ Double strike (This creature deals both first-strike and regular combat damage.)
  <type>Snow Creature - Crab </type>
  <pt>0/3</pt>
  <tablerow>2</tablerow>
- <text>S, T: Tap target creature. If you’ve drawn two or more cards this turn, that creature doesn’t untap during its controller’s next untap step.</text>
+ <text>S, T: Tap target creature. If you’ve drawn two or more cards this turn, put a stun counter on it. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)</text>
 </card>
 <card>
  <name>Vindictive Skygge</name>
@@ -875,8 +1073,8 @@ Double strike (This creature deals both first-strike and regular combat damage.)
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>(S/B can be paid with B from a snow source.)
-When Vindictive Skygge enters the battlefield, you may choose a card in target player’s graveyard. That player cremates that card.
-Shadow</text>
+When Vindictive Skygge enters the battlefield, you may choose a card in target player’s graveyard. That player cremates that card. (To cremate a card, a player exiles it from their graveyard.)
+Shadow (This creature can only block creatures with shadow, and can’t be blocked except by creatures with shadow or illuminate.)</text>
 </card>
 <card>
  <name>Emberheart Demon</name>
@@ -890,16 +1088,16 @@ Shadow</text>
  <text>Whenever you draw your second card each turn, Emberheart Demon deals 2 damage to each opponent.</text>
 </card>
 <card>
- <name>Venom Tamer</name>
+ <name>Coaxer of Venoms</name>
  <set rarity="common">SND</set>
  <color>G</color>
  <manacost>2G</manacost>
  <cmc>3</cmc>
  <type>Creature - Elf Viking Druid </type>
- <pt>1/1</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>When Venom Tamer enters the battlefield, create a 1/1 green Snake creature token with infect.
-Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Coaxer of Venoms enters the battlefield, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Skald's Attendant</name>
@@ -934,7 +1132,7 @@ When Rune-Eyed Draugr dies, create two colorless Rune enchantment artifact token
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-S: Viper of the Pale gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+S: Viper of the Pale gains shadow until end of turn. (This creature can only block creatures with shadow, and can’t be blocked except by creatures with shadow or illuminate.)</text>
 </card>
 <card>
  <name>Furious Rune-Scrawler</name>
@@ -980,7 +1178,7 @@ Sacrifice King Harald’s Devoted: Target creature gets +3/+3 until end of turn.
  <type>Snow Creature - Yeti Mutant </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>4S: Monstrosity 2 (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+ <text>4S: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
 As long as Abominable Drelnoch is monstrous, whenever it becomes blocked, you may draw two cards.</text>
 </card>
 <card>
@@ -1006,7 +1204,7 @@ Pay 1 life: Skemfar Painblade gets +1/+0 until end of turn. Activate only once e
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Haste (This creature can attack and T as soon as it comes under your control.)
-Whenever a creature you control explores, if the revealed card was a land, transform Novice Adventurer.
+Whenever a creature you control reveals a land while exploring, transform Novice Adventurer.
 ---
 (Back): Murderous Raider</text>
 </card>
@@ -1033,7 +1231,7 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-5S: Monstrosity 3 (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)</text>
+5S: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)</text>
 </card>
 <card>
  <name>Axgard Oxguard</name>
@@ -1055,8 +1253,8 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <type>Snow Creature - Kraken </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>5SS: Monstrosity 3 (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
-When Arctic Kraken becomes monstrous, tap up to two target Vehicles and/or creatures. Those permanents don’t untap during their controller’s next untap step.</text>
+ <text>5SS: Monstrosity 3.
+When Arctic Kraken becomes monstrous, tap up to two target Vehicles and/or creatures. If only one permanent was tapped this way, put two stun counters on it. Otherwise, put a stun counter on each.</text>
 </card>
 <card>
  <name>Viscera Visionary</name>
@@ -1067,8 +1265,8 @@ When Arctic Kraken becomes monstrous, tap up to two target Vehicles and/or creat
  <type>Creature - Elf Viking Druid </type>
  <pt>1/3</pt>
  <tablerow>2</tablerow>
- <text>When Viscera Visionary enters the battlefield, draw a card and you lose 1 life.
-Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Viscera Visionary enters the battlefield, draw a card and you lose 1 life.</text>
 </card>
 <card>
  <name>Lone Troublemaker</name>
@@ -1080,8 +1278,8 @@ Infect (This creature deals damage to creatures in the form of -1/-1 counters an
  <type>Creature - Human Werewolf Scout </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>When Lone Troublemaker enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
-Whenever a creature you control explores, if the revealed card was a land, transform Lone Troublemaker.
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Lone Troublemaker.
 ---
 (Back): Pack of Miscreants</text>
 </card>
@@ -1107,7 +1305,7 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <type>Snow Creature - Bird Bear </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>3SS: Monstrosity 2 (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+ <text>3SS: Monstrosity 2. (If this creature isn’t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
 When Polar Owlbear becomes monstrous, draw a card.</text>
 </card>
 <card>
@@ -1131,7 +1329,7 @@ Vigilance (Attacking doesn’t cause this creature to tap.)</text>
  <type>Creature - Human Scout </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>Flash
+ <text>Flash (You may cast this spell any time you could cast an instant.)
 When Emergency Helmsman enters the battlefield, Emergency Helmsman crews Vehicles as though its power were 2 greater until end of turn.</text>
 </card>
 <card>
@@ -1157,8 +1355,8 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
  <text>T, Sacrifice an artifact: Rock Tossers deals 2 damage to any target.</text>
 </card>
 <card>
- <name>Seedtender Druid</name>
- <set rarity="common" splitterPath="/Seedtender Druid.full.jpg" >SND</set>
+ <name>Kannah Treeplanter</name>
+ <set rarity="common" splitterPath="/Kannah Treeplanter.full.jpg" >SND</set>
  <color>G</color>
  <related attach="attach">Wildwood Vargr</related>
  <manacost>1G</manacost>
@@ -1166,7 +1364,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
  <type>Creature - Human Werewolf Druid </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Whenever a creature you control explores, if the revealed card was a land, transform Seedtender Druid.
+ <text>Whenever a creature you control reveals a land while exploring, transform Kannah Treeplanter.
 ---
 (Back): Wildwood Vargr</text>
 </card>
@@ -1181,7 +1379,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
  <tablerow>2</tablerow>
  <text>When this creature transforms into Wildwood Vargr, you may put a land card from your hand onto the battlefield tapped.
 ---
-(Front): Seedtender Druid</text>
+(Front): Kannah Treeplanter</text>
 </card>
 <card>
  <name>Gothi of Restoration</name>
@@ -1325,25 +1523,24 @@ When Skygge Piper enters the battlefield, create three 0/1 white Goat creature t
  <type>Snow Creature - Serpent </type>
  <pt>5/5</pt>
  <tablerow>2</tablerow>
- <text>4SS: Monstrosity 1
+ <text>4SS: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous. S can be paid with one mana from a snow source.)
 As long as Glacier Serpent isn’t monstrous, it has defender and “Prevent all combat damage that would be dealt by Glacier Serpent.”</text>
 </card>
 <card>
  <name>Koma's Consumed</name>
  <set rarity="common">SND</set>
  <color>B</color>
- <manacost>2BB</manacost>
+ <manacost>3B</manacost>
  <cmc>4</cmc>
  <type>Artifact Creature - Phyexian Elf </type>
- <pt>1/2</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Flash (You may cast this spell any time you could cast an instant.)
-Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
-When Koma’s Consumed enters the battlefield, put three -1/-1 counters on target creature with a -1/-1 counter on it.</text>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Koma’s Consumed enters the battlefield, put an infect counter on target creature you control. (A creature with an infect counter on it has infect.)</text>
 </card>
 <card>
- <name>Highway Huntress</name>
- <set rarity="common" splitterPath="/Highway Huntress.full.jpg" >SND</set>
+ <name>Frostpeak Navigator</name>
+ <set rarity="common" splitterPath="/Frostpeak Navigator.full.jpg" >SND</set>
  <color>R</color>
  <related attach="attach">Beast of Frostpeak</related>
  <manacost>2R</manacost>
@@ -1351,8 +1548,8 @@ When Koma’s Consumed enters the battlefield, put three -1/-1 counters on targe
  <type>Creature - Human Werewolf Scout </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>When Highway Huntress enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
-Whenever a creature you control explores, if the revealed card was a land, transform Highway Huntress.
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Frostpeak Navigator.
 ---
 (Back): Beast of Frostpeak</text>
 </card>
@@ -1365,9 +1562,9 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <type>Snow Creature - Werewolf Berserker </type>
  <pt>2/3</pt>
  <tablerow>2</tablerow>
- <text>S, Cremate a creature card: Beast of Frostpeak gets +1/+0 until end of turn. (To cremate a card, a player exiles it from their graveyard.)
+ <text>S, Cremate a creature card: Beast of Frostpeak gets +1/+0 until end of turn. (To cremate a card, a player exiles it from their graveyard. S can be paid with one mana from a snow source.)
 ---
-(Front): Highway Huntress</text>
+(Front): Frostpeak Navigator</text>
 </card>
 <card>
  <name>Icewolf Alpha</name>
@@ -1378,7 +1575,7 @@ Whenever a creature you control explores, if the revealed card was a land, trans
  <type>Snow Creature - Wolf </type>
  <pt>3/4</pt>
  <tablerow>2</tablerow>
- <text>5SS: Monstrosity 1
+ <text>5SS: Monstrosity 1. (If this creature isn’t monstrous, put a +1/+1 counter on it and it becomes monstrous. S can be paid with one mana from a snow source.)
 When Icewolf Alpha becomes monstrous, put a +1/+1 counter on each other creature you control.</text>
 </card>
 <card>
@@ -1389,7 +1586,7 @@ When Icewolf Alpha becomes monstrous, put a +1/+1 counter on each other creature
  <cmc>3</cmc>
  <type>Artifact - Vehicle </type>
  <tablerow>1</tablerow>
- <text>Whenever Cartographers’ Karve attacks, it explores.
+ <text>Whenever Cartographers’ Karve attacks, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
 </card>
 <card>
@@ -1401,7 +1598,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or greater: T
  <type>Snow Artifact - Vehicle </type>
  <tablerow>1</tablerow>
  <text>Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)
-Whenever a nonsnow creature crews this Vehicle, it doesn’t untap during its controller’s next untap step.</text>
+Whenever a nonsnow creature crews this Vehicle, put a stun counter on it. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)</text>
 </card>
 <card>
  <name>Goldvein Pick</name>
@@ -1423,7 +1620,8 @@ Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)</te
  <cmc>1</cmc>
  <type>Snow Artifact - Equipment </type>
  <tablerow>1</tablerow>
- <text>Equipped create has ward X where X is half the number of snow permanents you control rounded down, and is every creature type. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
+ <text>Equipped creature is every creature type.
+Equipped create has ward X where X is half the number of snow permanents you control rounded down. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
 Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
 </card>
 <card>

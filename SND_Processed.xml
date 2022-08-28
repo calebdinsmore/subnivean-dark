@@ -1,0 +1,1606 @@
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>SND</name>
+<longname>Kaldheim: Subnivean Dark</longname>
+<settype />
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Glacial Floodplain</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Glacial Floodplain.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Plains Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or U.)
+Glacial Floodplain enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Ice Tunnel</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Ice Tunnel.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Island Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or B.)
+Ice Tunnel enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Sulfurous Mire</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Sulfurous Mire.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Swamp Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or R.)
+Sulfurous Mire enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Highland Forest</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Highland Forest.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Mountain Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or G.)
+Highland Forest enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Arctic Treeline</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Arctic Treeline.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Forest Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or W.)
+Arctic Treeline enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Snowfield Sinkhole</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Snowfield Sinkhole.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Plains Swamp </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add W or B.)
+Snowfield Sinkhole enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Woodland Chasm</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Woodland Chasm.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Swamp Forest </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add B or G.)
+Woodland Chasm enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Rimewood Falls</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rimewood Falls.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Forest Island </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add G or U.)
+Rimewood Falls enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Volatile Fjord</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Volatile Fjord.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Island Mountain </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add U or R.)
+Volatile Fjord enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Alpine Meadow</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Alpine Meadow.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land - Mountain Plains </type>
+ <tablerow>0</tablerow>
+ <text>(T: Add R or W.)
+Alpine Meadow enters the battlefield tapped.</text>
+</card>
+<card>
+ <name>Mechanized Field</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mechanized Field.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Mechanized Field enters the battlefield tapped.
+T: Add W.
+1W: Until end of turn, Mechanized Field becomes a 2/1 white Viking creature with &#8220;Whenever Mechanized Field crews a Vehicle, that Vehicle gains lifelink until end of turn.&#8221; It&#8217;s still a land.</text>
+</card>
+<card>
+ <name>Shipwrights' Guild</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Shipwrights' Guild.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Shipwrights&#8217; Guild enters the battlefield tapped.
+T: Add U.
+1U: Until end of turn, Shipwrights&#8217; Guild becomes a 2/1 blue Viking creature with &#8220;Whenever Shipwrights&#8217; Guild crews a Vehicle, that Vehicle gains flying until end of turn.&#8221; It&#8217;s still a land.</text>
+</card>
+<card>
+ <name>Floating Market</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Floating Market.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Floating Market enters the battlefield tapped.
+T: Add B.
+1B: Until end of turn, Floating Market becomes a 2/1 black Viking creature with &#8220;Whenever Floating Market crews a Vehicle, that Vehicle gains menace until end of turn.&#8221; It&#8217;s still a land.</text>
+</card>
+<card>
+ <name>Stone Harbor</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Stone Harbor.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Stone Harbor enters the battlefield tapped.
+T: Add R.
+1R: Until end of turn, Stone Harbor becomes a 2/1 red Viking creature with &#8220;Whenever Stone Harbor crews a Vehicle, that Vehicle gains first strike until end of turn.&#8221; It&#8217;s still a land.</text>
+</card>
+<card>
+ <name>Fishing Hamlet</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Fishing Hamlet.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>Fishing Hamlet enters the battlefield tapped.
+T: Add G.
+1G: Until end of turn, Fishing Hamlet becomes a 2/1 green Viking creature with &#8220;Whenever Fishing Hamlet crews a Vehicle, that Vehicle gains trample until end of turn.&#8221; It&#8217;s still a land.</text>
+</card>
+<card>
+ <name>Shimmerdrift Vale</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Shimmerdrift Vale.full.jpg">SND</set>
+ <color />
+ <manacost />
+ <cmc>0</cmc>
+ <type>Snow Land</type>
+ <tablerow>0</tablerow>
+ <text>Shimmerdrift Vale enters the battlefield tapped.
+As Shimmerdrift Vale enters the battlefield, choose a color.
+T: Add one mana of the chosen color.</text>
+</card>
+<card>
+ <name>Inga, Musing Mariner</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Inga, Musing Mariner.full.jpg">SND</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Shaman Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Inga, Musing Mariner enters the battlefield, surveil 2.
+Once during each turn, whenever a Vehicle you control becomes crewed, you may draw a card.</text>
+</card>
+<card>
+ <name>Grimmast, Jarl of Helstrond</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Grimmast, Jarl of Helstrond.full.jpg">SND</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Zombie Viking Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+3UB, T: Return target creature or Vehicle card of mana value X or less from your graveyard to the battlefield where X is the total power among creatures you control. Activate only if a creature died under your control this turn.</text>
+</card>
+<card>
+ <name>Lifaeld, Daughter of Tusk</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Lifaeld, Daughter of Tusk.full.jpg">SND</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Elf Viking </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+At the beginning of combat on each turn, Lifaeld, Daughter of Tusk gets +X/+X where X is the number of creature cards that left your graveyard this turn.</text>
+</card>
+<card>
+ <name>Hvetja, Expeditions Expert</name>
+ <set rarity="uncommon" splitterPath="/Hvetja, Expeditions Expert.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Hvetja, Expeditions Expert.full.jpg" layout="transform">SND</set>
+ <color>RG</color>
+ <related attach="attach">Hvetja, Harbinger of the Hunt</related>
+ <manacost>1RG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Werewolf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+2GG: Hvetja, Expeditions Expert explores.
+Whenever a creature you control reveals a land while exploring, transform Hvetja, Expeditions Expert.
+---
+(Back): Hvetja, Harbinger of the Hunt</text>
+</card>
+<card>
+ <name>Mikill, the Beskir Bull</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mikill, the Beskir Bull.full.jpg">SND</set>
+ <color>WG</color>
+ <manacost>1WG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Giant Viking </type>
+ <pt>0/1+*</pt>
+ <tablerow>2</tablerow>
+ <text>Mikill, the Beskir Bull&#8217;s toughness is equal to 1 plus the number of Goats, Sheep, Oxen, and/or Aurochs you control.
+Each creature you control assigns combat damage equal to its toughness rather than its power and crews Vehicles using its toughness rather than its power.</text>
+</card>
+<card>
+ <name>Hirthilf, Skygge Daydream</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Hirthilf, Skygge Daydream.full.jpg">SND</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Snow Creature - Shade </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Shadow
+Whenever one or more snow creatures or creatures with shadow you control deal combat damage to your opponents, you may pay S for each of those opponents. For each S paid, prevent all combat damage target creature they control would deal until your next turn.</text>
+</card>
+<card>
+ <name>Harald, Venom King</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Harald, Venom King.full.jpg">SND</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Elf Viking Noble </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Infect
+Whenever you lose life for the first time on your turn, Harald, Venom King deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Margvet, Winter's Familiar</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Margvet, Winter's Familiar.full.jpg">SND</set>
+ <color>UG</color>
+ <manacost>1UG</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Snow Creature - Ferret Hydra </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>XSSS: Monstrosity X.
+Whenever you activate an ability of a snow creature, tap target creature you don&#8217;t control and put a number of stun counters on it equal to the amount of S you paid as part of that ability&#8217;s activation cost.</text>
+</card>
+<card>
+ <name>Raudhond, Master of Raids</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Raudhond, Master of Raids.full.jpg">SND</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human Viking </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Pirates and Warriors you control are Vikings in addition to their other types.
+Whenever you draw your second card each turn, Vikings you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Syngja, Skald of Armories</name>
+ <set rarity="uncommon" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Syngja, Skald of Armories.full.jpg">SND</set>
+ <color>WR</color>
+ <manacost>1WR</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Dwarf Viking Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an equipped creature you control attacks, for each kind of counter on that creature and/or Equipment attached to it, you may put another counter of that kind on that permanent or remove one from it.</text>
+</card>
+<card>
+ <name>Goat-Drawn Chariot</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Goat-Drawn Chariot.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Goat-Drawn Chariot enters the battlefield, create a 0/1 white Goat creature token, then attach Goat-Drawn Chariot to it.
+Equipped creature gets +2/+1.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Mantle of Tides</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mantle of Tides.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+2.
+Whenever you draw your second card each turn, attach Mantle of Tides to target creature you control.
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Beinstal Axe</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Beinstal Axe.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has &#8220;Whenever another creature you controls dies, put a +1/+1 counter on this creature.&#8221;
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Tormentor's Helm</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Tormentor's Helm.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1.
+Whenever equipped creature becomes blocked, it deals 1 damage to defending player.
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Lantern Flail</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Lantern Flail.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+1 and has illuminate. (That creature can block creatures with shadow.)
+Equip 3 (3: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Stalwart Longship</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Stalwart Longship.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Vigilance (Attacking doesn&#8217;t cause this creature to tap.)
+Whenever Stalwart Longship attacks, untap another target creature you control.
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Scalewing Leviathan</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Scalewing Leviathan.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>5UU</manacost>
+ <cmc>7</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Hexproof (This creature can&#8217;t be the target of spells or abilities your opponents control.)
+Whenever Wardscale Leviathan becomes crewed for the first time each turn, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Karfell Dreadnought</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Karfell Dreadnought.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it&#8217;s attacking.)
+When Karfell Dreadnought enters the battlefield, create two 2/2 black Zombie Berserker creature tokens with decayed. (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)
+Crew 4 (Tap any number of creatures you control with total power 4 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Blitz Drake</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Blitz Drake.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Haste (This creature can attack and T as soon as it comes under your control.)
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Battering Ship</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Battering Ship.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it&#8217;s attacking.)
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Rune of Warding</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune of Warding.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Rune </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+As long as enchanted permanent is a creature, it gets +1/+1 and has ward 2.
+As long as enchanted permanent is an Equipment, it has &#8220;Equipped creature gets +1/+1 and has ward 2.&#8221;</text>
+</card>
+<card>
+ <name>Rune of The Raven</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune of The Raven.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura Rune </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+When Rune of the Raven enters the battlefield, draw two cards.
+As long as enchanted permanent is a creature, it has flying.
+As long as enchanted permanent is an Equipment, it has &#8220;Equipped creature has flying.&#8221;</text>
+</card>
+<card>
+ <name>Rune of Shadows</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune of Shadows.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>S/B</manacost>
+ <cmc>1</cmc>
+ <type>Snow Enchantment - Aura Rune </type>
+ <tablerow>1</tablerow>
+ <text>(S/B can be paid with B from a snow source.)
+Enchant permanent
+As long as enchanted permanent is a creature, it gets -1/-0 and has shadow.
+As long as enchanted permanent is an Equipment, it has &#8220;Equipped creature gets -1/-0 and has shadow.&#8221;</text>
+</card>
+<card>
+ <name>Rune of Dragonfire</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune of Dragonfire.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Rune </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+As long as enchanted permanent is a creature, it has haste and &#8220;R: This creature gets +1/+0 until end of turn.&#8221;
+As long as enchanted permanent is an Equipment, it has &#8220;Equipped creature has haste&#8221; and &#8220;R: Equipped creature gets +1/+0 until end of turn.&#8221;</text>
+</card>
+<card>
+ <name>Rune of Grounding Light</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune of Grounding Light.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura Rune </type>
+ <tablerow>1</tablerow>
+ <text>Enchant permanent
+As long as enchanted permanent is a creature, it gets +1/+1 and has reach and illuminate. 
+As long as enchanted permanent is an Equipment, it has &#8220;Equipped creature gets +1/+1 and has reach and illuminate.&#8221;</text>
+</card>
+<card>
+ <name>Obscured by Snow</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Obscured by Snow.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>S/W</manacost>
+ <cmc>1</cmc>
+ <type>Snow Instant</type>
+ <tablerow>3</tablerow>
+ <text>(S/W can be paid with W from a snow source.)
+Target creature you control gains shadow and protection from the color of your choice until end of turn. (That creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate. It can&#8217;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)</text>
+</card>
+<card>
+ <name>Voyager's Charm</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Voyager's Charm.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one &#8212;
+&#8226; Target Vehicle becomes an artifact creature until end of turn.
+&#8226; Tap or untap target artifact or creature.
+&#8226; Target creature gets -4/-0 until end of turn.</text>
+</card>
+<card>
+ <name>Freeze to Death</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Freeze to Death.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1S/B</manacost>
+ <cmc>2</cmc>
+ <type>Snow Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(S/B can be paid with B from a snow source.)
+Destroy target nonsnow creature.</text>
+</card>
+<card>
+ <name>Punishing Heat</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Punishing Heat.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Punishing Heat deals 2 damage to target creature. If that creature is snow, Punishing Heat deals 2 damage to that creature&#8217;s controller.</text>
+</card>
+<card>
+ <name>Discover the Ice Pass</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Discover the Ice Pass.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Snow Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library for up to two snow land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+Foretell 1S (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Thawing Light</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Thawing Light.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target attacking creature. If that creature is snow, gain 2 life.</text>
+</card>
+<card>
+ <name>Stroke of Heat</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Stroke of Heat.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target snow spell. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Forget the Cold</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Forget the Cold.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand. You choose an artifact or snow card from it. That player discards that card.</text>
+</card>
+<card>
+ <name>Raze the Effigy</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Raze the Effigy.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one &#8212;
+&#8226; Destroy target artifact.
+&#8226; Target attacking creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Stranger's Greeting</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Stranger's Greeting.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature you control explores. Then it deals damage equal to its power to target creature you don&#8217;t control. (Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+</card>
+<card>
+ <name>Bury in Snow</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Bury in Snow.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Snow Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target artifact or creature.
+Foretell 1SS (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Icebound</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Icebound.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Snow Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap up to two target artifacts and/or creatures and put a stun counter on each of them. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)
+Foretell 2S (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Preserved in Ice</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Preserved in Ice.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Snow Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return up to two target creature and/or Vehicle cards from your graveyard to your hand.
+Foretell 1S (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Skald Fire</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Skald Fire.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Snow Instant</type>
+ <tablerow>3</tablerow>
+ <text>Skald Fire deals 5 damage to target player or planeswalker.
+Foretell 1SS (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Snakeskin Veil</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Snakeskin Veil.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Minimus Containment</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Minimus Containment.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant nonland permanent
+Enchanted permanent is a Treasure artifact with &#8220;Tap, Sacrifice this artifact: Add one mana of any color,&#8221; and it loses all other abilities. (If it was a creature, it&#8217;s no longer a creature.)</text>
+</card>
+<card>
+ <name>Encrust</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Encrust.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant artifact or creature
+Enchanted permanent doesn&#8217;t untap during its controller&#8217;s untap step and its activated abilities can&#8217;t be activated.</text>
+</card>
+<card>
+ <name>Bone Shards</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Bone Shards.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Destroy target creature or planeswalker.</text>
+</card>
+<card>
+ <name>Goatnap</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Goatnap.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. If that creature is a Goat, it also gets +3/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Shattering Light</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Shattering Light.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target artifact, enchantment, or creature with shadow.</text>
+</card>
+<card>
+ <name>Inspired Charge</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Inspired Charge.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Creatures you control get +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Steel Sabotage</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Steel Sabotage.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one &#8212;
+&#8226; Counter target artifact spell.
+&#8226; Return target artifact to its owner&#8217;s hand.</text>
+</card>
+<card>
+ <name>Rise from the Depths</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rise from the Depths.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>4B</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Return target creature or Vehicle card from your graveyard to the battlefield.</text>
+</card>
+<card>
+ <name>Rocky Avalanche</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rocky Avalanche.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>2S/R</manacost>
+ <cmc>3</cmc>
+ <type>Snow Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>(S/R can be paid with R from a snow source.)
+Rocky Avalanche deals 1 damage to each creature your opponents control. Nonsnow creatures can&#8217;t block this turn.</text>
+</card>
+<card>
+ <name>Snow-Covering</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Snow-Covering.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Snow Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land is snow and has &#8220;T: Add CC.&#8221;</text>
+</card>
+<card>
+ <name>Traders' Karve</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Traders' Karve.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever Traders&#8217; Karve becomes crewed for the first time each turn, put a shipment counter on Traders&#8217; Karve.
+Remove a shipment counter from Trader&#8217;s Karve: Create a 0/1 white Goat creature token.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Omenpath Infiltrator</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Omenpath Infiltrator.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Omenpath Infiltrator can&#8217;t be blocked.
+Whenever Omenpath Infiltrator deals combat damage to a player, that player reveals their hand.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Betrayer King's Zealot</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Betrayer King's Zealot.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Shaman </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Discard a creature or Vehicle card: Create a 2/2 black Zombie Berserker creature token with decayed. (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)</text>
+</card>
+<card>
+ <name>Tuskeri Pyre Lighters</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Tuskeri Pyre Lighters.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Tuskeri Pyre Lighters enters the battlefield, you may cremate a creature card. If you do, destroy target artifact. (To cremate a card, a player exiles it from their graveyard.)</text>
+</card>
+<card>
+ <name>Wayward Sheperd</name>
+ <set rarity="common" splitterPath="/Wayward Sheperd.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Wayward Sheperd.full.jpg" layout="transform">SND</set>
+ <color>G</color>
+ <related attach="attach">Consumer of the Flock</related>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Werewolf Scout </type>
+ <pt>0/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Wayward Shepherd enters the battlefield, create a 0/2 green Sheep creature token, then Wayward Shepherd explores.
+Whenever a creature you control reveals a land while exploring, transform Wayward Shepherd.
+---
+(Back): Consumer of the Flock</text>
+</card>
+<card>
+ <name>Rugged Ox</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rugged Ox.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Ox </type>
+ <pt>0/4</pt>
+ <tablerow>2</tablerow>
+ <text>Rugged Ox crews Vehicles using its toughness rather than its power.</text>
+</card>
+<card>
+ <name>Omensight Doomsayer</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Omensight Doomsayer.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Scout Shaman </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Omensight Doomsayer becomes tapped, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Doomed Raider</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Doomed Raider.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Viking </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Doomed Raider dies, create a 2/2 black Zombie Berserker creature token with decayed. (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)</text>
+</card>
+<card>
+ <name>Gothi of Cremation</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Gothi of Cremation.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Cremate a creature card: Add R. Activate only once each turn. (To cremate a card, a player exiles it from their graveyard.)</text>
+</card>
+<card>
+ <name>Kannah Clan Pathfinder</name>
+ <set rarity="common" splitterPath="/Kannah Clan Pathfinder.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Kannah Clan Pathfinder.full.jpg" layout="transform">SND</set>
+ <color>G</color>
+ <related attach="attach">Vargr Pack Linebreaker</related>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Werewolf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Kannah Clan Pathfinder.
+---
+(Back): Vargr Pack Linebreaker</text>
+</card>
+<card>
+ <name>Anointing Armor</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Anointing Armor.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Flash (You may cast this spell any time you could cast an instant.)
+When Anointing Armor enters the battlefield, attach it to target creature you control.
+Equipped creature gets +1/+2.
+Equip 4 (4: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Reinforced Deckhand</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Reinforced Deckhand.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Zombie Viking </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your end step, untap target artifact.</text>
+</card>
+<card>
+ <name>Bone Draugr</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Bone Draugr.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Skeleton Viking </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Cremate a creature card: Tap Bone Draugr. Bone Draugr gains indestructible until end of turn. (To cremate a card, a player exiles it from their graveyard. Damage and effects that say &#8220;destroy&#8221; don&#8217;t destroy this creature.)</text>
+</card>
+<card>
+ <name>Breakneck Mukluks</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Breakneck Mukluks.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +2/+0 and has haste. (That creature can attack and T as soon as it comes under your control.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Shepherd's Mound</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Shepherd's Mound.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>2G: Create a 0/2 green Sheep creature token.
+1, Sacrifice a creature: You gain life equal to the sacrificed creature&#8217;s toughness.</text>
+</card>
+<card>
+ <name>Axgard Lightwielder</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Axgard Lightwielder.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dwarf Viking Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as Axgard Lightwielder is equipped, it has first strike and lifelink. (This creature deals combat damage before creatures without first strike. Damage dealt by this creature also causes you to gain that much life.)</text>
+</card>
+<card>
+ <name>Draugr Interceptor</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Draugr Interceptor.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Viking </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash (You may cast this spell any time you could cast an instant.)
+Decayed (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)
+When Draugr Interceptor enters the battlefield, counter target creature spell unless its controller pays 2.</text>
+</card>
+<card>
+ <name>Vengeful Pillager</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Vengeful Pillager.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Viking </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>1B, T, Cremate a creature card: Each opponent loses 2 life. (To cremate a card, a player exiles it from their graveyard.)</text>
+</card>
+<card>
+ <name>Donned Champion</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Donned Champion.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dwarf Viking </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike (This creature deals combat damage before creatures without first strike.)
+Donned Champion gets +1/+0 for each Equipment attached to it.</text>
+</card>
+<card>
+ <name>Glowberry Tree</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Glowberry Tree.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Plant </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Illuminate (This creature can block creatures with shadow.)
+When Glowberry Tree enters the battlefield, you may put a land card from your hand onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Skygge Shieldmates</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Skygge Shieldmates.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>1S/WS/W</manacost>
+ <cmc>3</cmc>
+ <type>Snow Creature - Shade </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>(S/W can be paid with W from a snow source.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)
+Double strike (This creature deals both first-strike and regular combat damage.)</text>
+</card>
+<card>
+ <name>Icegrip Cancrix</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Icegrip Cancrix.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Snow Creature - Crab </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>S, T: Tap target creature. If you&#8217;ve drawn two or more cards this turn, put a stun counter on it. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)</text>
+</card>
+<card>
+ <name>Vindictive Skygge</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Vindictive Skygge.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>S/B</manacost>
+ <cmc>1</cmc>
+ <type>Snow Creature - Shade </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>(S/B can be paid with B from a snow source.)
+When Vindictive Skygge enters the battlefield, you may choose a card in target player&#8217;s graveyard. That player cremates that card. (To cremate a card, a player exiles it from their graveyard.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)</text>
+</card>
+<card>
+ <name>Emberheart Demon</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Emberheart Demon.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Demon Berserker </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you draw your second card each turn, Emberheart Demon deals 2 damage to each opponent.</text>
+</card>
+<card>
+ <name>Coaxer of Venoms</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Coaxer of Venoms.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Viking Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Coaxer of Venoms enters the battlefield, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+</card>
+<card>
+ <name>Skald's Attendant</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Skald's Attendant.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Artifact Creature - Golem </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an artifact enters the battlefield, you may gain 1 life.</text>
+</card>
+<card>
+ <name>Rune-Eyed Draugr</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rune-Eyed Draugr.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Viking </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Decayed (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)
+When Rune-Eyed Draugr dies, create two colorless Rune enchantment artifact tokens named Runestone with &#8220;1, T, Discard a card, Sacrifice this permanent: Draw a card.&#8221;</text>
+</card>
+<card>
+ <name>Viper of the Pale</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Viper of the Pale.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Snow Creature - Snake </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+S: Viper of the Pale gains shadow until end of turn. (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)</text>
+</card>
+<card>
+ <name>Furious Rune-Scrawler</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Furious Rune-Scrawler.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Dwarf Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace (This creature can&#8217;t be blocked except by two or more creatures.)
+Sacrifice Furious Rune-Scrawler: Create a colorless Rune enchantment artifact token named Runestone with &#8220;1, T, Discard a card, Sacrifice this permanent: Draw a card.&#8221;</text>
+</card>
+<card>
+ <name>King Harald's Devoted</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/King Harald's Devoted.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Elf Viking </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Sacrifice King Harald&#8217;s Devoted: Target creature gets +3/+3 until end of turn.</text>
+</card>
+<card>
+ <name>Ridge Rider</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Ridge Rider.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Ridge Rider enters the battlefield, create a 0/1 white Goat creature token.</text>
+</card>
+<card>
+ <name>Abominable Drelnoch</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Abominable Drelnoch.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Snow Creature - Yeti Mutant </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>4S: Monstrosity 2. (If this creature isn&#8217;t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+As long as Abominable Drelnoch is monstrous, whenever it becomes blocked, you may draw two cards.</text>
+</card>
+<card>
+ <name>Skemfar Painblade</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Skemfar Painblade.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Viking </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Pay 1 life: Skemfar Painblade gets +1/+0 until end of turn. Activate only once each turn.</text>
+</card>
+<card>
+ <name>Novice Adventurer</name>
+ <set rarity="common" splitterPath="/Novice Adventurer.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Novice Adventurer.full.jpg" layout="transform">SND</set>
+ <color>R</color>
+ <related attach="attach">Murderous Raider</related>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Werewolf Viking </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste (This creature can attack and T as soon as it comes under your control.)
+Whenever a creature you control reveals a land while exploring, transform Novice Adventurer.
+---
+(Back): Murderous Raider</text>
+</card>
+<card>
+ <name>Snowy Mammoth</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Snowy Mammoth.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Snow Creature - Elephant </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it&#8217;s attacking.)
+5S: Monstrosity 3. (If this creature isn&#8217;t monstrous, put three +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)</text>
+</card>
+<card>
+ <name>Axgard Oxguard</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Axgard Oxguard.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dwarf Viking </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an Equipment becomes attached to Axgard Oxguard, create a 0/4 white Ox creature token.</text>
+</card>
+<card>
+ <name>Arctic Kraken</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Arctic Kraken.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>4U</manacost>
+ <cmc>5</cmc>
+ <type>Snow Creature - Kraken </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>5SS: Monstrosity 3.
+When Arctic Kraken becomes monstrous, tap up to two target Vehicles and/or creatures. If only one permanent was tapped this way, put two stun counters on it. Otherwise, put a stun counter on each.</text>
+</card>
+<card>
+ <name>Viscera Visionary</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Viscera Visionary.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Elf Viking Druid </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Viscera Visionary enters the battlefield, draw a card and you lose 1 life.</text>
+</card>
+<card>
+ <name>Lone Troublemaker</name>
+ <set rarity="common" splitterPath="/Lone Troublemaker.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Lone Troublemaker.full.jpg" layout="transform">SND</set>
+ <color>R</color>
+ <related attach="attach">Pack of Miscreants</related>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Werewolf Scout </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Lone Troublemaker.
+---
+(Back): Pack of Miscreants</text>
+</card>
+<card>
+ <name>Polar Owlbear</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Polar Owlbear.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Snow Creature - Bird Bear </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>3SS: Monstrosity 2. (If this creature isn&#8217;t monstrous, put two +1/+1 counters on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+When Polar Owlbear becomes monstrous, draw a card.</text>
+</card>
+<card>
+ <name>Valkyrie Realmwarden</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Valkyrie Realmwarden.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Angel Viking </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Flying (This creature can&#8217;t be blocked except by creatures with flying or reach.)
+Vigilance (Attacking doesn&#8217;t cause this creature to tap.)</text>
+</card>
+<card>
+ <name>Emergency Helmsman</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Emergency Helmsman.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Scout </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash (You may cast this spell any time you could cast an instant.)
+When Emergency Helmsman enters the battlefield, Emergency Helmsman crews Vehicles as though its power were 2 greater until end of turn.</text>
+</card>
+<card>
+ <name>Fell-Plated Cutter</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Fell-Plated Cutter.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Sacrifice an artifact or creature: Put a +1/+1 counter on Fell-Plated Cutter.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Rock Tossers</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Rock Tossers.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Troll Berserker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Sacrifice an artifact: Rock Tossers deals 2 damage to any target.</text>
+</card>
+<card>
+ <name>Kannah Treeplanter</name>
+ <set rarity="common" splitterPath="/Kannah Treeplanter.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Kannah Treeplanter.full.jpg" layout="transform">SND</set>
+ <color>G</color>
+ <related attach="attach">Wildwood Vargr</related>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Werewolf Druid </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature you control reveals a land while exploring, transform Kannah Treeplanter.
+---
+(Back): Wildwood Vargr</text>
+</card>
+<card>
+ <name>Gothi of Restoration</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Gothi of Restoration.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Dwarf Artificer Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+When Gothi of Restoration enters the battlefield, you may return target artifact card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Dread Marn Recruiter</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Dread Marn Recruiter.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Viking </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast an artifact spell, you may pay 1. If you do, create a 2/2 black Zombie Berserker creature token with decayed. (It can&#8217;t block. When it attacks, sacrifice it at end of combat.)</text>
+</card>
+<card>
+ <name>Warm Cannibals</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Warm Cannibals.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Peasant </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>T, Cremate a creature card: Create a Food token. (To cremate a card, a player exiles it from their graveyard. It&#8217;s an artifact with &#8220;2, T, Sacrifice this artifact: You gain 3 life.&#8221;)</text>
+</card>
+<card>
+ <name>Viking Bear-Rager</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Viking Bear-Rager.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Dwarf Viking Berserker </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike (This creature deals both first-strike and regular combat damage.)</text>
+</card>
+<card>
+ <name>Beskir Aurochs</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Beskir Aurochs.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Aurochs </type>
+ <pt>0/6</pt>
+ <tablerow>2</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it&#8217;s attacking.)
+When Beskir Aurochs enters the battlefield, create a token that&#8217;s a copy of Beskir Aurochs except it lacks this ability.
+Whenever Beskir Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Goat, Sheep, Ox, and/or Aurochs.</text>
+</card>
+<card>
+ <name>Sunlight Skygge</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Sunlight Skygge.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>S/W</manacost>
+ <cmc>1</cmc>
+ <type>Snow Creature - Shade </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>(S/W can be paid with W from a snow source.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+</card>
+<card>
+ <name>Contemplate</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Contemplate.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Draw a card.</text>
+</card>
+<card>
+ <name>Memento Skygge</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Memento Skygge.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>1S/BS/B</manacost>
+ <cmc>3</cmc>
+ <type>Snow Creature - Shade </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>(S/B can be paid with B from a snow source.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)
+Sacrifice Memento Skygge: Target player discards two cards. Activate only as a sorcery.</text>
+</card>
+<card>
+ <name>Runestone Ravager</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Runestone Ravager.full.jpg">SND</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Giant Berserker </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it&#8217;s attacking.)
+Whenever Runestone Ravager deals combat damage to a player, create a colorless Rune enchantment artifact token named Runestone with &#8220;1, T, Discard a card, Sacrifice this permanent: Draw a card.&#8221;</text>
+</card>
+<card>
+ <name>Ormrblod Mystic</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Ormrblod Mystic.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ormrblod Mystic becomes tapped, you lose 1 life.
+T: Add G.</text>
+</card>
+<card>
+ <name>Skygge Piper</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Skygge Piper.full.jpg">SND</set>
+ <color>W</color>
+ <manacost>3S/W</manacost>
+ <cmc>4</cmc>
+ <type>Snow Creature - Shade </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>(S/W can be paid with W from a snow source.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)
+When Skygge Piper enters the battlefield, create three 0/1 white Goat creature tokens.</text>
+</card>
+<card>
+ <name>Glacier Serpent</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Glacier Serpent.full.jpg">SND</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Snow Creature - Serpent </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>4SS: Monstrosity 1. (If this creature isn&#8217;t monstrous, put a +1/+1 counter on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+As long as Glacier Serpent isn&#8217;t monstrous, it has defender and &#8220;Prevent all combat damage that would be dealt by Glacier Serpent.&#8221;</text>
+</card>
+<card>
+ <name>Koma's Consumed</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Koma's Consumed.full.jpg">SND</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Artifact Creature - Phyexian Elf </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Koma&#8217;s Consumed enters the battlefield, put an infect counter on target creature you control. (A creature with an infect counter on it has infect.)</text>
+</card>
+<card>
+ <name>Frostpeak Navigator</name>
+ <set rarity="common" splitterPath="/Frostpeak Navigator.full.jpg" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Frostpeak Navigator.full.jpg" layout="transform">SND</set>
+ <color>R</color>
+ <related attach="attach">Beast of Frostpeak</related>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Werewolf Scout </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Whenever a creature you control reveals a land while exploring, transform Frostpeak Navigator.
+---
+(Back): Beast of Frostpeak</text>
+</card>
+<card>
+ <name>Icewolf Alpha</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Icewolf Alpha.full.jpg">SND</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Snow Creature - Wolf </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>5SS: Monstrosity 1. (If this creature isn&#8217;t monstrous, put a +1/+1 counter on it and it becomes monstrous. S can be paid with one mana from a snow source.)
+When Icewolf Alpha becomes monstrous, put a +1/+1 counter on each other creature you control.</text>
+</card>
+<card>
+ <name>Cartographers' Karve</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Cartographers' Karve.full.jpg">SND</set>
+ <color />
+ <manacost>3</manacost>
+ <cmc>3</cmc>
+ <type>Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Whenever Cartographers&#8217; Karve attacks, it explores. (Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+</card>
+<card>
+ <name>Moving Iceberg</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Moving Iceberg.full.jpg">SND</set>
+ <color />
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Snow Artifact - Vehicle </type>
+ <tablerow>1</tablerow>
+ <text>Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)
+Whenever a nonsnow creature crews this Vehicle, put a stun counter on it. (If a permanent with a stun counter on it would become untapped, remove one from it instead.)</text>
+</card>
+<card>
+ <name>Goldvein Pick</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Goldvein Pick.full.jpg">SND</set>
+ <color />
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Treasure token. (It&#8217;s an artifact with &#8220;T, Sacrifice this artifact: Add one mana of any color.&#8221;)
+Equip 1 (1: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Mask of the Mistfolk</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mask of the Mistfolk.full.jpg">SND</set>
+ <color />
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Snow Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature is every creature type.
+Equipped create has ward X where X is half the number of snow permanents you control rounded down. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays X.)
+Equip 2 (2: Attach to target creature you control. Equip only as a sorcery.)</text>
+</card>
+<card>
+ <name>Eager Farmhand</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Eager Farmhand.full.jpg">SND</set>
+ <color />
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact Creature - Scarecrow </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Eager Farmhand enters the battlefield, each player may surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+</card>
+<card>
+ <name>Icefield Assimilator</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Icefield Assimilator.full.jpg">SND</set>
+ <color />
+ <manacost>3SS</manacost>
+ <cmc>5</cmc>
+ <type>Snow Artifact Creature - Phyrexian Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>When Icefield Assimilator enters the battlefield, exile all snow, artifact, and creature cards from target player&#8217;s graveyard, then put X +1/+1 counters on Icefield Assimilator where X is the number of cards exiled this way.</text>
+</card>
+<card>
+ <name>Mycosynth Bloom</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mycosynth Bloom.full.jpg">SND</set>
+ <color />
+ <manacost>1</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>When Mycosynth Bloom enters the battlefield, you may search your library for any number of cards named Mycosynth Bloom, reveal them, put them into your hand, then shuffle.
+When Mycosynth Bloom is put into a graveyard from the battlefield, target nonland permanent becomes a colorless artifact in addition to its other types until end of turn.</text>
+</card>
+<card>
+ <name>Lakemarker Runestone</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Lakemarker Runestone.full.jpg">SND</set>
+ <color />
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Snow Enchantment Artifact - Rune </type>
+ <tablerow>1</tablerow>
+ <text>T: Add C.
+1, T, Discard a card, Sacrifice Lakemarker Runestone: Draw a card.</text>
+</card>
+<card>
+ <name>Whiteout</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Whiteout.full.jpg">SND</set>
+ <color />
+ <manacost>S</manacost>
+ <cmc>1</cmc>
+ <type>Snow Instant</type>
+ <tablerow>3</tablerow>
+ <text>(S can be paid with one mana from a snow source.)
+Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
+ <name>Mistwalker Skygge</name>
+ <set rarity="common" picurl="https://raw.githubusercontent.com/calebdinsmore/subnivean-dark/main/img/Mistwalker Skygge.full.jpg">SND</set>
+ <color />
+ <manacost>6</manacost>
+ <cmc>6</cmc>
+ <type>Snow Creature - Shapeshifter </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Changeling (This card is every creature type.)
+Shadow (This creature can only block creatures with shadow, and can&#8217;t be blocked except by creatures with shadow or illuminate.)
+Foretell 2SS (During your turn, you may pay 2 and exile this card from your hand face down. Cast it on a later turn for its foretell cost. S can be paid with one mana from a snow source.)</text>
+</card>
+
+
+
+
+</cards>
+</cockatrice_carddatabase>
